@@ -7,7 +7,7 @@ title: Projects
 - Analyzed transaction data to identify fraud patterns
 - Built dashboards in Power BI
 - Used Python and SQL for analysis  
-[View Project on GitHub](https://github.com/yourusername/data-analytics-portfolio)
+[View Project on GitHub](https://github.com/RkulCoding/CreditCard-Fraud-Detection)
 
 ---
 
@@ -15,4 +15,4 @@ title: Projects
 - End-to-end data analytics workflow
 - SQL-based customer insights
 - Power BI dashboard  
-[View Project on GitHub](https://github.com/yourusername/data-analytics-portfolio)
+[View Project on GitHub](https://github.com/RkulCoding/Customer_Behavior_Analysis)
