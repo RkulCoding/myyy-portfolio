@@ -1,20 +1,10 @@
 ---
 layout: home
-title: Home
 ---
 
-# Hi, I’m Rashmi 👋
+# Rashmi Kulkarni
+### Entry-Level Data Analyst | Python • SQL • Power BI
 
-Entry-level **Data Analyst** with internship experience in **Credit Card Fraud Detection**.
+Entry-level Data Analyst with **internship experience in Credit Card Fraud Detection** and hands-on experience in end-to-end data analytics projects. Skilled in analyzing structured data, building dashboards, and translating insights into business recommendations.
 
-## 🔧 Skills
-- Python, SQL, Power BI
-- Data Cleaning & EDA
-- Data Visualization
-- Dashboard & Reporting
-
-## 📊 Featured Projects
-- **Credit Card Fraud Detection (Internship)**
-- **Customer Shopping Behavior Analysis**
-
-👉 Visit the **Projects** page for details.
+📌 Actively seeking **Data Analyst / Business Analyst / Analytics Trainee** roles
